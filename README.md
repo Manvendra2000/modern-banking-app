@@ -37,6 +37,9 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 
 Happy banking! 💵💳💼
 
+Credits: 💳📽️ <br/>
+![JS Mastery Hoobank Modern Banking tutorial](https://www.youtube.com/watch?v=_oO4Qi5aVZs)
+
 
 
 <br/>
