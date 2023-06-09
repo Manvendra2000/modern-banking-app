@@ -1,6 +1,6 @@
 🏦 Modern Banking Website 🌐
 
-This project is a modern banking website built using React ⚛️ and Vite 🚀. It aims to provide users with a user-friendly and efficient banking experience. 🤝💰
+This project is an modern banking website built using React ⚛️ and Vite 🚀. It aims to provide users with a user-friendly and efficient banking experience. 🤝💰
 
 📜 Description:  <br/>
 The Modern Banking Website is a responsive and interactive application that allows users to perform various banking operations such as account management, fund transfers, transaction history, and more. It offers a sleek and intuitive user interface to enhance the overall user experience. 📊💻
